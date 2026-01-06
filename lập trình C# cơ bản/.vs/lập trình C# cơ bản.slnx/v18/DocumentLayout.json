@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\CT219H-LaPTrinhUngDung.NET\\l\u1EADp tr\u00ECnh C# c\u01A1 b\u1EA3n\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB725B2-E6C1-8C40-95B5-425B82B3F59B}|b\u00E0i 1\\b\u00E0i 1.csproj|d:\\study\\ct219h-laptrinhungdung.net\\l\u1EADp tr\u00ECnh c# c\u01A1 b\u1EA3n\\b\u00E0i 1\\b\u00E0i 1\\filename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB725B2-E6C1-8C40-95B5-425B82B3F59B}|b\u00E0i 1\\b\u00E0i 1.csproj|solutionrelative:b\u00E0i 1\\b\u00E0i 1\\filename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cs",
+              "DocumentMoniker": "D:\\Study\\CT219H-LaPTrinhUngDung.NET\\l\u1EADp tr\u00ECnh C# c\u01A1 b\u1EA3n\\b\u00E0i 1\\b\u00E0i 1\\FileName.cs",
+              "RelativeDocumentMoniker": "b\u00E0i 1\\b\u00E0i 1\\FileName.cs",
+              "ToolTip": "D:\\Study\\CT219H-LaPTrinhUngDung.NET\\l\u1EADp tr\u00ECnh C# c\u01A1 b\u1EA3n\\b\u00E0i 1\\b\u00E0i 1\\FileName.cs",
+              "RelativeToolTip": "b\u00E0i 1\\b\u00E0i 1\\FileName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T07:51:04.354Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

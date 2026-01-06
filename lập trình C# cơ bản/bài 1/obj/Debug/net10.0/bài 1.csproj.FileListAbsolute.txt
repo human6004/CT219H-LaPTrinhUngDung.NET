@@ -1,0 +1,15 @@
+D:\Study\CT219H-LaPTrinhUngDung.NET\lập trình C# cơ bản\bài 1\bin\Debug\net10.0\bài 1.exe
+D:\Study\CT219H-LaPTrinhUngDung.NET\lập trình C# cơ bản\bài 1\bin\Debug\net10.0\bài 1.deps.json
+D:\Study\CT219H-LaPTrinhUngDung.NET\lập trình C# cơ bản\bài 1\bin\Debug\net10.0\bài 1.runtimeconfig.json
+D:\Study\CT219H-LaPTrinhUngDung.NET\lập trình C# cơ bản\bài 1\bin\Debug\net10.0\bài 1.dll
+D:\Study\CT219H-LaPTrinhUngDung.NET\lập trình C# cơ bản\bài 1\bin\Debug\net10.0\bài 1.pdb
+D:\Study\CT219H-LaPTrinhUngDung.NET\lập trình C# cơ bản\bài 1\obj\Debug\net10.0\bài 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\CT219H-LaPTrinhUngDung.NET\lập trình C# cơ bản\bài 1\obj\Debug\net10.0\bài 1.AssemblyInfoInputs.cache
+D:\Study\CT219H-LaPTrinhUngDung.NET\lập trình C# cơ bản\bài 1\obj\Debug\net10.0\bài 1.AssemblyInfo.cs
+D:\Study\CT219H-LaPTrinhUngDung.NET\lập trình C# cơ bản\bài 1\obj\Debug\net10.0\bài 1.csproj.CoreCompileInputs.cache
+D:\Study\CT219H-LaPTrinhUngDung.NET\lập trình C# cơ bản\bài 1\obj\Debug\net10.0\bài 1.sourcelink.json
+D:\Study\CT219H-LaPTrinhUngDung.NET\lập trình C# cơ bản\bài 1\obj\Debug\net10.0\bài 1.dll
+D:\Study\CT219H-LaPTrinhUngDung.NET\lập trình C# cơ bản\bài 1\obj\Debug\net10.0\refint\bài 1.dll
+D:\Study\CT219H-LaPTrinhUngDung.NET\lập trình C# cơ bản\bài 1\obj\Debug\net10.0\bài 1.pdb
+D:\Study\CT219H-LaPTrinhUngDung.NET\lập trình C# cơ bản\bài 1\obj\Debug\net10.0\bài 1.genruntimeconfig.cache
+D:\Study\CT219H-LaPTrinhUngDung.NET\lập trình C# cơ bản\bài 1\obj\Debug\net10.0\ref\bài 1.dll
