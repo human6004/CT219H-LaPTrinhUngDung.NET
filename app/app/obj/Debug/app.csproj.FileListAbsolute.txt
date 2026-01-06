@@ -8,3 +8,13 @@ D:\Study\CT219H-LaPTrinhUngDung.NET\app\app\obj\Debug\app.csproj.GenerateResourc
 D:\Study\CT219H-LaPTrinhUngDung.NET\app\app\obj\Debug\app.csproj.CoreCompileInputs.cache
 D:\Study\CT219H-LaPTrinhUngDung.NET\app\app\obj\Debug\app.exe
 D:\Study\CT219H-LaPTrinhUngDung.NET\app\app\obj\Debug\app.pdb
+D:\Study\CT219H-Lập trình ứng dụng với .NET\CT219H-LaPTrinhUngDung.NET\app\app\bin\Debug\app.exe.config
+D:\Study\CT219H-Lập trình ứng dụng với .NET\CT219H-LaPTrinhUngDung.NET\app\app\bin\Debug\app.exe
+D:\Study\CT219H-Lập trình ứng dụng với .NET\CT219H-LaPTrinhUngDung.NET\app\app\bin\Debug\app.pdb
+D:\Study\CT219H-Lập trình ứng dụng với .NET\CT219H-LaPTrinhUngDung.NET\app\app\obj\Debug\app.csproj.AssemblyReference.cache
+D:\Study\CT219H-Lập trình ứng dụng với .NET\CT219H-LaPTrinhUngDung.NET\app\app\obj\Debug\app.Form1.resources
+D:\Study\CT219H-Lập trình ứng dụng với .NET\CT219H-LaPTrinhUngDung.NET\app\app\obj\Debug\app.Properties.Resources.resources
+D:\Study\CT219H-Lập trình ứng dụng với .NET\CT219H-LaPTrinhUngDung.NET\app\app\obj\Debug\app.csproj.GenerateResource.cache
+D:\Study\CT219H-Lập trình ứng dụng với .NET\CT219H-LaPTrinhUngDung.NET\app\app\obj\Debug\app.csproj.CoreCompileInputs.cache
+D:\Study\CT219H-Lập trình ứng dụng với .NET\CT219H-LaPTrinhUngDung.NET\app\app\obj\Debug\app.exe
+D:\Study\CT219H-Lập trình ứng dụng với .NET\CT219H-LaPTrinhUngDung.NET\app\app\obj\Debug\app.pdb
