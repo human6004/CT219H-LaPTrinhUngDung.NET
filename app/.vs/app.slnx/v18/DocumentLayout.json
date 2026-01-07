@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\Study\\CT219H-L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .NET\\CT219H-LaPTrinhUngDung.NET\\app\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B1777512-067A-4BE1-AC26-99DC861FADF0}|app\\app.csproj|D:\\Study\\CT219H-L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .NET\\CT219H-LaPTrinhUngDung.NET\\app\\app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B1777512-067A-4BE1-AC26-99DC861FADF0}|app\\app.csproj|d:\\study\\ct219h-l\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .net\\ct219h-laptrinhungdung.net\\app\\app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B1777512-067A-4BE1-AC26-99DC861FADF0}|app\\app.csproj|solutionrelative:app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1777512-067A-4BE1-AC26-99DC861FADF0}|app\\app.csproj|d:\\study\\ct219h-l\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .net\\ct219h-laptrinhungdung.net\\app\\app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B1777512-067A-4BE1-AC26-99DC861FADF0}|app\\app.csproj|D:\\Study\\CT219H-L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .NET\\CT219H-LaPTrinhUngDung.NET\\app\\app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1777512-067A-4BE1-AC26-99DC861FADF0}|app\\app.csproj|solutionrelative:app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1777512-067A-4BE1-AC26-99DC861FADF0}|app\\app.csproj|D:\\Study\\CT219H-L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .NET\\CT219H-LaPTrinhUngDung.NET\\app\\app\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B1777512-067A-4BE1-AC26-99DC861FADF0}|app\\app.csproj|solutionrelative:app\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B1777512-067A-4BE1-AC26-99DC861FADF0}|app\\app.csproj|D:\\Study\\CT219H-L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .NET\\CT219H-LaPTrinhUngDung.NET\\app\\app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1777512-067A-4BE1-AC26-99DC861FADF0}|app\\app.csproj|solutionrelative:app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1777512-067A-4BE1-AC26-99DC861FADF0}|app\\app.csproj|D:\\Study\\CT219H-L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .NET\\CT219H-LaPTrinhUngDung.NET\\app\\app\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1777512-067A-4BE1-AC26-99DC861FADF0}|app\\app.csproj|solutionrelative:app\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,25 +36,26 @@
               "RelativeDocumentMoniker": "app\\Form1.cs",
               "ToolTip": "D:\\Study\\CT219H-L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .NET\\CT219H-LaPTrinhUngDung.NET\\app\\app\\Form1.cs",
               "RelativeToolTip": "app\\Form1.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAA2wEgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAqwGcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-06T08:28:15.829Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form2.cs [Design]",
               "DocumentMoniker": "D:\\Study\\CT219H-L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .NET\\CT219H-LaPTrinhUngDung.NET\\app\\app\\Form2.cs",
               "RelativeDocumentMoniker": "app\\Form2.cs",
-              "ToolTip": "D:\\Study\\CT219H-LaPTrinhUngDung.NET\\app\\app\\Form2.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\CT219H-LaPTrinhUngDung.NET\\app\\app\\Form2.cs [Design]",
+              "ToolTip": "D:\\Study\\CT219H-L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .NET\\CT219H-LaPTrinhUngDung.NET\\app\\app\\Form2.cs [Design]",
+              "RelativeToolTip": "app\\Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T09:14:55.211Z"
+              "WhenOpened": "2026-01-06T09:14:55.211Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Study\\CT219H-L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .NET\\CT219H-LaPTrinhUngDung.NET\\app\\app\\Program.cs",
               "RelativeDocumentMoniker": "app\\Program.cs",
@@ -62,7 +63,8 @@
               "RelativeToolTip": "app\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T08:30:29.595Z"
+              "WhenOpened": "2026-01-06T08:30:29.595Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

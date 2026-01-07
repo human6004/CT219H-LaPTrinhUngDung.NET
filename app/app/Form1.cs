@@ -17,10 +17,17 @@ namespace app
             InitializeComponent();
         }
 
-
+        //Form_Load là một EVENT (sự kiện) của Form trong WinForms.
+        //👉 Nó chạy 1 lần duy nhất, ngay khi Form vừa được mở lên.
         private void Form1_Load(object sender, EventArgs e)
         {
-          
+            // ListBox
+            listBox1.Items.Add("C#");
+            listBox1.Items.Add("Java");
+
+            // ComboBox
+            comboBox1.Items.Add("Nam");
+            comboBox1.Items.Add("Nữ");
         }
 
         static void main()
@@ -71,6 +78,42 @@ namespace app
         private void radioButton2_CheckedChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            //hien tu xin chao
+            MessageBox.Show("Xin chào");
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            // neu chon nu thi hien thi nu
+            if (comboBox1.SelectedItem.ToString() == "Nữ")
+            {
+                MessageBox.Show("Bạn đã chọn Nữ");
+            }
+            else
+            {
+                MessageBox.Show("Bạn đã chọn Nam");
+            }
+        }
+
+        private void openFileDialog1_FileOk(object sender, CancelEventArgs e)
+        {
+
+        }
+
+        private void btnOpenFile_Click(object sender, EventArgs e)
+        {
+            openFileDialog1.Filter = "Text files (*.txt)|*.txt|All files (*.*)|*.*";
+            openFileDialog1.Title = "Chọn file";
+
+            if (openFileDialog1.ShowDialog() == DialogResult.OK)
+            {
+                string path = openFileDialog1.FileName;
+                MessageBox.Show("Bạn chọn: " + path);
+            }
         }
     }
 }
