@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\CT219H-L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .NET\\CT219H-LaPTrinhUngDung.NET\\QuanLyQuanCaPhe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80E0252F-B579-44F3-A378-1E6BBE8A5A97}|QuanLyQuanCaPhe\\QuanLyQuanCaPhe.csproj|d:\\study\\ct219h-l\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .net\\ct219h-laptrinhungdung.net\\quanlyquancaphe\\quanlyquancaphe\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{80E0252F-B579-44F3-A378-1E6BBE8A5A97}|QuanLyQuanCaPhe\\QuanLyQuanCaPhe.csproj|solutionrelative:quanlyquancaphe\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E0252F-B579-44F3-A378-1E6BBE8A5A97}|QuanLyQuanCaPhe\\QuanLyQuanCaPhe.csproj|d:\\study\\ct219h-l\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .net\\ct219h-laptrinhungdung.net\\quanlyquancaphe\\quanlyquancaphe\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E0252F-B579-44F3-A378-1E6BBE8A5A97}|QuanLyQuanCaPhe\\QuanLyQuanCaPhe.csproj|solutionrelative:quanlyquancaphe\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E0252F-B579-44F3-A378-1E6BBE8A5A97}|QuanLyQuanCaPhe\\QuanLyQuanCaPhe.csproj|d:\\study\\ct219h-l\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .net\\ct219h-laptrinhungdung.net\\quanlyquancaphe\\quanlyquancaphe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E0252F-B579-44F3-A378-1E6BBE8A5A97}|QuanLyQuanCaPhe\\QuanLyQuanCaPhe.csproj|solutionrelative:quanlyquancaphe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\CT219H-L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .NET\\CT219H-LaPTrinhUngDung.NET\\QuanLyQuanCaPhe\\QuanLyQuanCaPhe\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLyQuanCaPhe\\Program.cs",
+              "ToolTip": "D:\\Study\\CT219H-L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .NET\\CT219H-LaPTrinhUngDung.NET\\QuanLyQuanCaPhe\\QuanLyQuanCaPhe\\Program.cs",
+              "RelativeToolTip": "QuanLyQuanCaPhe\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T14:52:36.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fLogin.cs",
+              "DocumentMoniker": "D:\\Study\\CT219H-L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .NET\\CT219H-LaPTrinhUngDung.NET\\QuanLyQuanCaPhe\\QuanLyQuanCaPhe\\fLogin.cs",
+              "RelativeDocumentMoniker": "QuanLyQuanCaPhe\\fLogin.cs",
+              "ToolTip": "D:\\Study\\CT219H-L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .NET\\CT219H-LaPTrinhUngDung.NET\\QuanLyQuanCaPhe\\QuanLyQuanCaPhe\\fLogin.cs",
+              "RelativeToolTip": "QuanLyQuanCaPhe\\fLogin.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAswCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T14:52:19.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fLogin.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\CT219H-L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .NET\\CT219H-LaPTrinhUngDung.NET\\QuanLyQuanCaPhe\\QuanLyQuanCaPhe\\fLogin.cs",
+              "RelativeDocumentMoniker": "QuanLyQuanCaPhe\\fLogin.cs",
+              "ToolTip": "D:\\Study\\CT219H-L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .NET\\CT219H-LaPTrinhUngDung.NET\\QuanLyQuanCaPhe\\QuanLyQuanCaPhe\\fLogin.cs [Design]",
+              "RelativeToolTip": "QuanLyQuanCaPhe\\fLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T14:51:35.611Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

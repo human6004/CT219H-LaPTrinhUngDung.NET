@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -113,6 +114,25 @@ namespace app
             {
                 string path = openFileDialog1.FileName;
                 MessageBox.Show("Bạn chọn: " + path);
+            }
+        }
+
+        private void saveFileDialog1_FileOk(object sender, CancelEventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            SaveFileDialog sfd = new SaveFileDialog();
+            sfd.Filter = "Text files (*.txt)|*.txt|All files (*.*)|*.*";
+            sfd.Title = "Lưu file";
+            sfd.FileName = "data.txt"; // tên gợi ý
+
+            if (sfd.ShowDialog() == DialogResult.OK)
+            {
+                File.WriteAllText(sfd.FileName, textBox1.Text);
+                MessageBox.Show("Lưu thành công!");
             }
         }
     }
