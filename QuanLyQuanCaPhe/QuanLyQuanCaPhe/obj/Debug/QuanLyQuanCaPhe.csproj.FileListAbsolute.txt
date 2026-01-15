@@ -8,3 +8,6 @@ D:\Study\CT219H-Lập trình ứng dụng với .NET\CT219H-LaPTrinhUngDung.NET\
 D:\Study\CT219H-Lập trình ứng dụng với .NET\CT219H-LaPTrinhUngDung.NET\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.CoreCompileInputs.cache
 D:\Study\CT219H-Lập trình ứng dụng với .NET\CT219H-LaPTrinhUngDung.NET\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.exe
 D:\Study\CT219H-Lập trình ứng dụng với .NET\CT219H-LaPTrinhUngDung.NET\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.pdb
+D:\Study\CT219H-Lập trình ứng dụng với .NET\CT219H-LaPTrinhUngDung.NET\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.fTableManager.resources
+D:\Study\CT219H-Lập trình ứng dụng với .NET\CT219H-LaPTrinhUngDung.NET\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.fAccountProfile.resources
+D:\Study\CT219H-Lập trình ứng dụng với .NET\CT219H-LaPTrinhUngDung.NET\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.fAdmin.resources

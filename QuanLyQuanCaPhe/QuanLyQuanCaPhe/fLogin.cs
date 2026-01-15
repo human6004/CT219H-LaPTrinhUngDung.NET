@@ -41,5 +41,33 @@ namespace QuanLyQuanCaPhe
         {
 
         }
+
+        private void buttonThoat_Click(object sender, EventArgs e)
+        {
+            // bấm vào chương trình thoát
+            Application.Exit();
+
+        }
+
+        private void fLogin_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            if (MessageBox.Show("bạn có thật sự muốn thoát chương trình", "thông báo", MessageBoxButtons.OKCancel) != System.Windows.Forms.DialogResult.OK)
+            {
+                e.Cancel = true;
+            }
+            else
+                {
+                Application.ExitThread();
+            }
+    }
+
+        private void buttonLogin_Click(object sender, EventArgs e)
+        {
+            // hiện thi form fTableManager
+            fTableManager f = new fTableManager();
+            this.Hide();
+            f.ShowDialog();
+            this.Show();
+        }
     }
 }
