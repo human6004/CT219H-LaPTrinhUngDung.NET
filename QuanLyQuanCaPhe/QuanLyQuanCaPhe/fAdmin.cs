@@ -1,7 +1,9 @@
-﻿using System;
+﻿using QuanLyQuanCaPhe.DAO;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Data.SqlClient;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -15,6 +17,7 @@ namespace QuanLyQuanCaPhe
         public fAdmin()
         {
             InitializeComponent();
+            LoadAccountList();
         }
 
         private void dateTimePicker1_ValueChanged(object sender, EventArgs e)
@@ -61,5 +64,19 @@ namespace QuanLyQuanCaPhe
         {
 
         }
+
+        void LoadAccountList()
+        {
+            //string query = "SELECT * FROM Account";
+            String query = "EXEC dbo.USP_GetAccountByUserName @userName ";
+            DataProvider provider = new DataProvider();
+            dataGridViewAccount.DataSource = provider.ExecuteQuery(query, new object[] {"staff"});
+        }
+
+        private void dataGridViewAccount_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }
+
