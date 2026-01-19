@@ -1,17 +1,15 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Study\\CT219H-LaPTrinhUngDung.NET\\",
+  "WorkspaceRootPath": "D:\\Study\\CT219H-L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .NET\\CT219H-LaPTrinhUngDung.NET\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Study\\CT219H-LaPTrinhUngDung.NET\\ConsoleApp1\\ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp1\\ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Study\\CT219H-LaPTrinhUngDung.NET\\ConsoleApp1\\ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Study\\CT219H-LaPTrinhUngDung.NET\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Study\\CT219H-LaPTrinhUngDung.NET\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Study\\CT219H-LaPTrinhUngDung.NET\\NewFile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Study\\CT219H-L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .NET\\CT219H-LaPTrinhUngDung.NET\\NewFile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NewFile||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -29,9 +27,9 @@
               "DocumentIndex": 1,
               "Title": "ConsoleApp1.csproj",
               "DocumentMoniker": "D:\\Study\\CT219H-LaPTrinhUngDung.NET\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-              "RelativeDocumentMoniker": "ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeDocumentMoniker": "..\\..\\CT219H-LaPTrinhUngDung.NET\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
               "ToolTip": "D:\\Study\\CT219H-LaPTrinhUngDung.NET\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-              "RelativeToolTip": "ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeToolTip": "..\\..\\CT219H-LaPTrinhUngDung.NET\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-01-06T07:24:10.479Z"
@@ -41,9 +39,9 @@
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Study\\CT219H-LaPTrinhUngDung.NET\\ConsoleApp1\\ConsoleApp1\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\CT219H-LaPTrinhUngDung.NET\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "ToolTip": "D:\\Study\\CT219H-LaPTrinhUngDung.NET\\ConsoleApp1\\ConsoleApp1\\Program.cs",
-              "RelativeToolTip": "ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "..\\..\\CT219H-LaPTrinhUngDung.NET\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-06T07:24:09.201Z"
             },
@@ -51,9 +49,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "NewFile",
-              "DocumentMoniker": "D:\\Study\\CT219H-LaPTrinhUngDung.NET\\NewFile",
+              "DocumentMoniker": "D:\\Study\\CT219H-L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .NET\\CT219H-LaPTrinhUngDung.NET\\NewFile",
               "RelativeDocumentMoniker": "NewFile",
-              "ToolTip": "D:\\Study\\CT219H-LaPTrinhUngDung.NET\\NewFile",
+              "ToolTip": "D:\\Study\\CT219H-L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .NET\\CT219H-LaPTrinhUngDung.NET\\NewFile",
               "RelativeToolTip": "NewFile",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",

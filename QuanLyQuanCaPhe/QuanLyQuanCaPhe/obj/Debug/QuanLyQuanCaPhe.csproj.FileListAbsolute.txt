@@ -11,3 +11,16 @@ D:\Study\CT219H-Lập trình ứng dụng với .NET\CT219H-LaPTrinhUngDung.NET\
 D:\Study\CT219H-Lập trình ứng dụng với .NET\CT219H-LaPTrinhUngDung.NET\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.fTableManager.resources
 D:\Study\CT219H-Lập trình ứng dụng với .NET\CT219H-LaPTrinhUngDung.NET\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.fAccountProfile.resources
 D:\Study\CT219H-Lập trình ứng dụng với .NET\CT219H-LaPTrinhUngDung.NET\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.fAdmin.resources
+D:\Study\CT219H-LaPTrinhUngDung.NET\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.exe.config
+D:\Study\CT219H-LaPTrinhUngDung.NET\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.exe
+D:\Study\CT219H-LaPTrinhUngDung.NET\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.pdb
+D:\Study\CT219H-LaPTrinhUngDung.NET\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.AssemblyReference.cache
+D:\Study\CT219H-LaPTrinhUngDung.NET\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.fAccountProfile.resources
+D:\Study\CT219H-LaPTrinhUngDung.NET\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.fAdmin.resources
+D:\Study\CT219H-LaPTrinhUngDung.NET\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.fLogin.resources
+D:\Study\CT219H-LaPTrinhUngDung.NET\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.fTableManager.resources
+D:\Study\CT219H-LaPTrinhUngDung.NET\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.Properties.Resources.resources
+D:\Study\CT219H-LaPTrinhUngDung.NET\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.GenerateResource.cache
+D:\Study\CT219H-LaPTrinhUngDung.NET\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.CoreCompileInputs.cache
+D:\Study\CT219H-LaPTrinhUngDung.NET\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.exe
+D:\Study\CT219H-LaPTrinhUngDung.NET\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.pdb
