@@ -17,7 +17,8 @@ namespace QuanLyQuanCaPhe
         public fAdmin()
         {
             InitializeComponent();
-            LoadAccountList();
+            //LoadAccountList();
+            //LoadTableFood();
         }
 
         private void dateTimePicker1_ValueChanged(object sender, EventArgs e)
@@ -65,13 +66,19 @@ namespace QuanLyQuanCaPhe
 
         }
 
-        void LoadAccountList()
-        {
-            //string query = "SELECT * FROM Account";
-            String query = "EXEC dbo.USP_GetAccountByUserName @userName ";
-            DataProvider provider = new DataProvider();
-            dataGridViewAccount.DataSource = provider.ExecuteQuery(query, new object[] {"staff"});
-        }
+        //void LoadAccountList()
+        //{
+        //    //string query = "SELECT * FROM Account";
+        //    String query = "EXEC dbo.USP_GetAccountByUserName @userName ";
+            
+        //    dataGridViewAccount.DataSource = DataProvider.Instance.ExecuteQuery(query, new object[] {"staff"});
+        //}
+
+        //void LoadTableFood()
+        //{
+        //    String query = "select * from food";
+        //    dataGridViewFood.DataSource = DataProvider.Instance.ExecuteQuery(query);
+        //}
 
         private void dataGridViewAccount_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
@@ -79,6 +86,16 @@ namespace QuanLyQuanCaPhe
         }
 
         private void fAdmin_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+            
+        }
+
+        private void dataGridViewTable_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
 
         }

@@ -10,7 +10,18 @@ namespace QuanLyQuanCaPhe.DAO
 {
     internal class DataProvider
     {
-       private string connectionSTR =
+       private static DataProvider instance; // ctrl + R + E
+        public static DataProvider Instance
+            {
+            get { if (instance == null) instance = new DataProvider(); return DataProvider.instance; }
+            private set { DataProvider.instance = value; }
+            // singleton: chỉ tạo ra 1 thể hiện duy nhất của lớp DataProvider
+        }
+        private DataProvider() { }
+
+
+
+        private string connectionSTR =
             @"Server=NHAN\SQLEXPRESS;
                 Database=QuanLyQuanCafe;
                 Integrated Security=True;
