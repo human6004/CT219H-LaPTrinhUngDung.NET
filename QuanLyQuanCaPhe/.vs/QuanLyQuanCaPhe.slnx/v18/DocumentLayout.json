@@ -3,24 +3,48 @@
   "WorkspaceRootPath": "D:\\Study\\CT219H-L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .NET\\CT219H-LaPTrinhUngDung.NET\\QuanLyQuanCaPhe\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{80E0252F-B579-44F3-A378-1E6BBE8A5A97}|QuanLyQuanCaPhe\\QuanLyQuanCaPhe.csproj|D:\\Study\\CT219H-L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .NET\\CT219H-LaPTrinhUngDung.NET\\QuanLyQuanCaPhe\\quanlyquancaphe\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{80E0252F-B579-44F3-A378-1E6BBE8A5A97}|QuanLyQuanCaPhe\\QuanLyQuanCaPhe.csproj|solutionrelative:quanlyquancaphe\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E0252F-B579-44F3-A378-1E6BBE8A5A97}|QuanLyQuanCaPhe\\QuanLyQuanCaPhe.csproj|d:\\study\\ct219h-l\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .net\\ct219h-laptrinhungdung.net\\quanlyquancaphe\\quanlyquancaphe\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E0252F-B579-44F3-A378-1E6BBE8A5A97}|QuanLyQuanCaPhe\\QuanLyQuanCaPhe.csproj|solutionrelative:quanlyquancaphe\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E0252F-B579-44F3-A378-1E6BBE8A5A97}|QuanLyQuanCaPhe\\QuanLyQuanCaPhe.csproj|d:\\study\\ct219h-l\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .net\\ct219h-laptrinhungdung.net\\quanlyquancaphe\\quanlyquancaphe\\dao\\tabledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E0252F-B579-44F3-A378-1E6BBE8A5A97}|QuanLyQuanCaPhe\\QuanLyQuanCaPhe.csproj|solutionrelative:quanlyquancaphe\\dao\\tabledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E0252F-B579-44F3-A378-1E6BBE8A5A97}|QuanLyQuanCaPhe\\QuanLyQuanCaPhe.csproj|d:\\study\\ct219h-l\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .net\\ct219h-laptrinhungdung.net\\quanlyquancaphe\\quanlyquancaphe\\dto\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E0252F-B579-44F3-A378-1E6BBE8A5A97}|QuanLyQuanCaPhe\\QuanLyQuanCaPhe.csproj|solutionrelative:quanlyquancaphe\\dto\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E0252F-B579-44F3-A378-1E6BBE8A5A97}|QuanLyQuanCaPhe\\QuanLyQuanCaPhe.csproj|D:\\Study\\CT219H-L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .NET\\CT219H-LaPTrinhUngDung.NET\\QuanLyQuanCaPhe\\quanlyquancaphe\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E0252F-B579-44F3-A378-1E6BBE8A5A97}|QuanLyQuanCaPhe\\QuanLyQuanCaPhe.csproj|solutionrelative:quanlyquancaphe\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{80E0252F-B579-44F3-A378-1E6BBE8A5A97}|QuanLyQuanCaPhe\\QuanLyQuanCaPhe.csproj|d:\\study\\ct219h-l\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .net\\ct219h-laptrinhungdung.net\\quanlyquancaphe\\quanlyquancaphe\\dao\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80E0252F-B579-44F3-A378-1E6BBE8A5A97}|QuanLyQuanCaPhe\\QuanLyQuanCaPhe.csproj|solutionrelative:quanlyquancaphe\\dao\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80E0252F-B579-44F3-A378-1E6BBE8A5A97}|QuanLyQuanCaPhe\\QuanLyQuanCaPhe.csproj|d:\\study\\ct219h-l\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .net\\ct219h-laptrinhungdung.net\\quanlyquancaphe\\quanlyquancaphe\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80E0252F-B579-44F3-A378-1E6BBE8A5A97}|QuanLyQuanCaPhe\\QuanLyQuanCaPhe.csproj|solutionrelative:quanlyquancaphe\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{80E0252F-B579-44F3-A378-1E6BBE8A5A97}|QuanLyQuanCaPhe\\QuanLyQuanCaPhe.csproj|D:\\Study\\CT219H-L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .NET\\CT219H-LaPTrinhUngDung.NET\\QuanLyQuanCaPhe\\quanlyquancaphe\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{80E0252F-B579-44F3-A378-1E6BBE8A5A97}|QuanLyQuanCaPhe\\QuanLyQuanCaPhe.csproj|solutionrelative:quanlyquancaphe\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80E0252F-B579-44F3-A378-1E6BBE8A5A97}|QuanLyQuanCaPhe\\QuanLyQuanCaPhe.csproj|d:\\study\\ct219h-l\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .net\\ct219h-laptrinhungdung.net\\quanlyquancaphe\\quanlyquancaphe\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80E0252F-B579-44F3-A378-1E6BBE8A5A97}|QuanLyQuanCaPhe\\QuanLyQuanCaPhe.csproj|solutionrelative:quanlyquancaphe\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{80E0252F-B579-44F3-A378-1E6BBE8A5A97}|QuanLyQuanCaPhe\\QuanLyQuanCaPhe.csproj|D:\\Study\\CT219H-L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .NET\\CT219H-LaPTrinhUngDung.NET\\QuanLyQuanCaPhe\\quanlyquancaphe\\faccountprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{80E0252F-B579-44F3-A378-1E6BBE8A5A97}|QuanLyQuanCaPhe\\QuanLyQuanCaPhe.csproj|solutionrelative:quanlyquancaphe\\faccountprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80E0252F-B579-44F3-A378-1E6BBE8A5A97}|QuanLyQuanCaPhe\\QuanLyQuanCaPhe.csproj|d:\\study\\ct219h-l\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .net\\ct219h-laptrinhungdung.net\\quanlyquancaphe\\quanlyquancaphe\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{80E0252F-B579-44F3-A378-1E6BBE8A5A97}|QuanLyQuanCaPhe\\QuanLyQuanCaPhe.csproj|D:\\Study\\CT219H-L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .NET\\CT219H-LaPTrinhUngDung.NET\\QuanLyQuanCaPhe\\quanlyquancaphe\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{80E0252F-B579-44F3-A378-1E6BBE8A5A97}|QuanLyQuanCaPhe\\QuanLyQuanCaPhe.csproj|solutionrelative:quanlyquancaphe\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80E0252F-B579-44F3-A378-1E6BBE8A5A97}|QuanLyQuanCaPhe\\QuanLyQuanCaPhe.csproj|d:\\study\\ct219h-l\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .net\\ct219h-laptrinhungdung.net\\quanlyquancaphe\\quanlyquancaphe\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{80E0252F-B579-44F3-A378-1E6BBE8A5A97}|QuanLyQuanCaPhe\\QuanLyQuanCaPhe.csproj|solutionrelative:quanlyquancaphe\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{80E0252F-B579-44F3-A378-1E6BBE8A5A97}|QuanLyQuanCaPhe\\QuanLyQuanCaPhe.csproj|D:\\Study\\CT219H-L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .NET\\CT219H-LaPTrinhUngDung.NET\\QuanLyQuanCaPhe\\quanlyquancaphe\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E0252F-B579-44F3-A378-1E6BBE8A5A97}|QuanLyQuanCaPhe\\QuanLyQuanCaPhe.csproj|solutionrelative:quanlyquancaphe\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E0252F-B579-44F3-A378-1E6BBE8A5A97}|QuanLyQuanCaPhe\\QuanLyQuanCaPhe.csproj|D:\\Study\\CT219H-L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .NET\\CT219H-LaPTrinhUngDung.NET\\QuanLyQuanCaPhe\\quanlyquancaphe\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E0252F-B579-44F3-A378-1E6BBE8A5A97}|QuanLyQuanCaPhe\\QuanLyQuanCaPhe.csproj|solutionrelative:quanlyquancaphe\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,37 +54,112 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TableDAO.cs",
+              "DocumentMoniker": "D:\\Study\\CT219H-L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .NET\\CT219H-LaPTrinhUngDung.NET\\QuanLyQuanCaPhe\\QuanLyQuanCaPhe\\DAO\\TableDAO.cs",
+              "RelativeDocumentMoniker": "QuanLyQuanCaPhe\\DAO\\TableDAO.cs",
+              "ToolTip": "D:\\Study\\CT219H-L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .NET\\CT219H-LaPTrinhUngDung.NET\\QuanLyQuanCaPhe\\QuanLyQuanCaPhe\\DAO\\TableDAO.cs",
+              "RelativeToolTip": "QuanLyQuanCaPhe\\DAO\\TableDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T14:02:14.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "fTableManager.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\CT219H-L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .NET\\CT219H-LaPTrinhUngDung.NET\\QuanLyQuanCaPhe\\QuanLyQuanCaPhe\\fTableManager.cs",
+              "RelativeDocumentMoniker": "QuanLyQuanCaPhe\\fTableManager.cs",
+              "ToolTip": "D:\\Study\\CT219H-L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .NET\\CT219H-LaPTrinhUngDung.NET\\QuanLyQuanCaPhe\\QuanLyQuanCaPhe\\fTableManager.cs [Design]",
+              "RelativeToolTip": "QuanLyQuanCaPhe\\fTableManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T12:59:52.718Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fTableManager.cs",
+              "DocumentMoniker": "D:\\Study\\CT219H-L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .NET\\CT219H-LaPTrinhUngDung.NET\\QuanLyQuanCaPhe\\QuanLyQuanCaPhe\\fTableManager.cs",
+              "RelativeDocumentMoniker": "QuanLyQuanCaPhe\\fTableManager.cs",
+              "ToolTip": "D:\\Study\\CT219H-L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .NET\\CT219H-LaPTrinhUngDung.NET\\QuanLyQuanCaPhe\\QuanLyQuanCaPhe\\fTableManager.cs",
+              "RelativeToolTip": "QuanLyQuanCaPhe\\fTableManager.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T13:50:37.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Table.cs",
+              "DocumentMoniker": "D:\\Study\\CT219H-L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .NET\\CT219H-LaPTrinhUngDung.NET\\QuanLyQuanCaPhe\\QuanLyQuanCaPhe\\DTO\\Table.cs",
+              "RelativeDocumentMoniker": "QuanLyQuanCaPhe\\DTO\\Table.cs",
+              "ToolTip": "D:\\Study\\CT219H-L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .NET\\CT219H-LaPTrinhUngDung.NET\\QuanLyQuanCaPhe\\QuanLyQuanCaPhe\\DTO\\Table.cs",
+              "RelativeToolTip": "QuanLyQuanCaPhe\\DTO\\Table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T14:04:12.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "D:\\Study\\CT219H-L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .NET\\CT219H-LaPTrinhUngDung.NET\\QuanLyQuanCaPhe\\QuanLyQuanCaPhe\\DAO\\DataProvider.cs",
+              "RelativeDocumentMoniker": "QuanLyQuanCaPhe\\DAO\\DataProvider.cs",
+              "ToolTip": "D:\\Study\\CT219H-L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .NET\\CT219H-LaPTrinhUngDung.NET\\QuanLyQuanCaPhe\\QuanLyQuanCaPhe\\DAO\\DataProvider.cs",
+              "RelativeToolTip": "QuanLyQuanCaPhe\\DAO\\DataProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T12:59:53.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "AccountDAO.cs",
               "DocumentMoniker": "D:\\Study\\CT219H-L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .NET\\CT219H-LaPTrinhUngDung.NET\\QuanLyQuanCaPhe\\QuanLyQuanCaPhe\\DAO\\AccountDAO.cs",
               "RelativeDocumentMoniker": "QuanLyQuanCaPhe\\DAO\\AccountDAO.cs",
               "ToolTip": "D:\\Study\\CT219H-L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .NET\\CT219H-LaPTrinhUngDung.NET\\QuanLyQuanCaPhe\\QuanLyQuanCaPhe\\DAO\\AccountDAO.cs",
               "RelativeToolTip": "QuanLyQuanCaPhe\\DAO\\AccountDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAB6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-20T10:06:38.604Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "fAdmin.cs",
-              "DocumentMoniker": "D:\\Study\\CT219H-L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .NET\\CT219H-LaPTrinhUngDung.NET\\QuanLyQuanCaPhe\\QuanLyQuanCaPhe\\fAdmin.cs",
-              "RelativeDocumentMoniker": "QuanLyQuanCaPhe\\fAdmin.cs",
-              "ToolTip": "D:\\Study\\CT219H-L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .NET\\CT219H-LaPTrinhUngDung.NET\\QuanLyQuanCaPhe\\QuanLyQuanCaPhe\\fAdmin.cs",
-              "RelativeToolTip": "QuanLyQuanCaPhe\\fAdmin.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "fAccountProfile.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\CT219H-L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .NET\\CT219H-LaPTrinhUngDung.NET\\QuanLyQuanCaPhe\\QuanLyQuanCaPhe\\fAccountProfile.cs",
+              "RelativeDocumentMoniker": "QuanLyQuanCaPhe\\fAccountProfile.cs",
+              "ToolTip": "D:\\Study\\CT219H-L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .NET\\CT219H-LaPTrinhUngDung.NET\\QuanLyQuanCaPhe\\QuanLyQuanCaPhe\\fAccountProfile.cs [Design]",
+              "RelativeToolTip": "QuanLyQuanCaPhe\\fAccountProfile.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T10:04:52.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-25T13:13:25.782Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
+              "Title": "fLogin.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\CT219H-L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .NET\\CT219H-LaPTrinhUngDung.NET\\QuanLyQuanCaPhe\\QuanLyQuanCaPhe\\fLogin.cs",
+              "RelativeDocumentMoniker": "QuanLyQuanCaPhe\\fLogin.cs",
+              "ToolTip": "D:\\Study\\CT219H-L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .NET\\CT219H-LaPTrinhUngDung.NET\\QuanLyQuanCaPhe\\QuanLyQuanCaPhe\\fLogin.cs [Design]",
+              "RelativeToolTip": "QuanLyQuanCaPhe\\fLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T09:59:17.23Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "fAdmin.cs [Design]",
               "DocumentMoniker": "D:\\Study\\CT219H-L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .NET\\CT219H-LaPTrinhUngDung.NET\\QuanLyQuanCaPhe\\QuanLyQuanCaPhe\\fAdmin.cs",
               "RelativeDocumentMoniker": "QuanLyQuanCaPhe\\fAdmin.cs",
@@ -72,7 +171,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
+              "Title": "fAdmin.cs",
+              "DocumentMoniker": "D:\\Study\\CT219H-L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .NET\\CT219H-LaPTrinhUngDung.NET\\QuanLyQuanCaPhe\\QuanLyQuanCaPhe\\fAdmin.cs",
+              "RelativeDocumentMoniker": "QuanLyQuanCaPhe\\fAdmin.cs",
+              "ToolTip": "D:\\Study\\CT219H-L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .NET\\CT219H-LaPTrinhUngDung.NET\\QuanLyQuanCaPhe\\QuanLyQuanCaPhe\\fAdmin.cs",
+              "RelativeToolTip": "QuanLyQuanCaPhe\\fAdmin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T10:04:52.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "fLogin.cs",
               "DocumentMoniker": "D:\\Study\\CT219H-L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .NET\\CT219H-LaPTrinhUngDung.NET\\QuanLyQuanCaPhe\\QuanLyQuanCaPhe\\fLogin.cs",
               "RelativeDocumentMoniker": "QuanLyQuanCaPhe\\fLogin.cs",
@@ -82,18 +194,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-20T09:59:17.998Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "fLogin.cs [Design]",
-              "DocumentMoniker": "D:\\Study\\CT219H-L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .NET\\CT219H-LaPTrinhUngDung.NET\\QuanLyQuanCaPhe\\QuanLyQuanCaPhe\\fLogin.cs",
-              "RelativeDocumentMoniker": "QuanLyQuanCaPhe\\fLogin.cs",
-              "ToolTip": "D:\\Study\\CT219H-L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng v\u1EDBi .NET\\CT219H-LaPTrinhUngDung.NET\\QuanLyQuanCaPhe\\QuanLyQuanCaPhe\\fLogin.cs [Design]",
-              "RelativeToolTip": "QuanLyQuanCaPhe\\fLogin.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T09:59:17.23Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }

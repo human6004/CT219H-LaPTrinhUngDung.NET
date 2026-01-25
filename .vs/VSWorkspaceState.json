@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\QuanLyQuanCaPhe",
+    "\\QuanLyQuanCaPhe\\QuanLyQuanCaPhe",
+    "\\QuanLyQuanCaPhe\\QuanLyQuanCaPhe\\DAO"
   ],
-  "SelectedNode": "\\TT_WindowsFormsApp.slnx",
+  "SelectedNode": "\\QuanLyQuanCaPhe\\QuanLyQuanCaPhe\\DAO\\AccountDAO.cs",
   "PreviewInSolutionExplorer": false
 }

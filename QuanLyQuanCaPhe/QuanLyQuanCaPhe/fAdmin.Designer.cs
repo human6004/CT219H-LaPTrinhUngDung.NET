@@ -516,6 +516,7 @@
             this.dataGridViewCategpry.RowHeadersWidth = 51;
             this.dataGridViewCategpry.Size = new System.Drawing.Size(301, 357);
             this.dataGridViewCategpry.TabIndex = 6;
+            this.dataGridViewCategpry.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridViewCategpry_CellContentClick);
             // 
             // panel17
             // 

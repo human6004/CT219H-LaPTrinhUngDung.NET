@@ -19,12 +19,16 @@ namespace QuanLyQuanCaPhe.DAO
         public bool Login(string username, string password)
         {
             // code đăng nhập sẽ viết ở đây
-            string query = "select * from Account where UserName = N'" + username + "' and PassWord = N'" + password + "'";
-            DataTable result = DataProvider.Instance.ExecuteQuery(query);
-            if (result.Rows.Count > 0)
-                return true;
+            //string query = "select * from Account where UserName = N'" + username + "' and PassWord = N'" + password + "'";
+            //DataTable result = DataProvider.Instance.ExecuteQuery(query);
+            //if (result.Rows.Count > 0)
+            //    return true;
 
-            return false;
+            //return false;
+
+            string query = "USP_Login @userName , @passWord";
+            DataTable result = DataProvider.Instance.ExecuteQuery(query, new object[] { username, password });
+            return result.Rows.Count > 0;
         }
 
     }

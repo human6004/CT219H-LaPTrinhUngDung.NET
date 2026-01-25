@@ -220,10 +220,12 @@
             // 
             // flowLayoutPanelTable
             // 
+            this.flowLayoutPanelTable.AutoScroll = true;
             this.flowLayoutPanelTable.Location = new System.Drawing.Point(6, 29);
             this.flowLayoutPanelTable.Name = "flowLayoutPanelTable";
             this.flowLayoutPanelTable.Size = new System.Drawing.Size(298, 424);
             this.flowLayoutPanelTable.TabIndex = 4;
+            this.flowLayoutPanelTable.Paint += new System.Windows.Forms.PaintEventHandler(this.flowLayoutPanelTable_Paint);
             // 
             // fTableManager
             // 
@@ -239,7 +241,8 @@
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "fTableManager";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "fTableManager";
+            this.Text = "phần mềm quản lí";
+            this.Load += new System.EventHandler(this.fTableManager_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.panel2.ResumeLayout(false);

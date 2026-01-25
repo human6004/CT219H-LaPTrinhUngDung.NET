@@ -17,8 +17,8 @@ namespace QuanLyQuanCaPhe
         public fAdmin()
         {
             InitializeComponent();
-            //LoadAccountList();
-            //LoadTableFood();
+            LoadAccountList();
+            LoadTableFood();
         }
 
         private void dateTimePicker1_ValueChanged(object sender, EventArgs e)
@@ -66,19 +66,19 @@ namespace QuanLyQuanCaPhe
 
         }
 
-        //void LoadAccountList()
-        //{
-        //    //string query = "SELECT * FROM Account";
-        //    String query = "EXEC dbo.USP_GetAccountByUserName @userName ";
-            
-        //    dataGridViewAccount.DataSource = DataProvider.Instance.ExecuteQuery(query, new object[] {"staff"});
-        //}
+        void LoadAccountList()
+        {
+            //string query = "SELECT * FROM Account";
+            String query = "EXEC dbo.USP_GetAccountByUserName @userName ";
 
-        //void LoadTableFood()
-        //{
-        //    String query = "select * from food";
-        //    dataGridViewFood.DataSource = DataProvider.Instance.ExecuteQuery(query);
-        //}
+            dataGridViewAccount.DataSource = DataProvider.Instance.ExecuteQuery(query, new object[] { "staff" });
+        }
+
+        void LoadTableFood()
+        {
+            String query = "select * from food";
+            dataGridViewFood.DataSource = DataProvider.Instance.ExecuteQuery(query);
+        }
 
         private void dataGridViewAccount_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
@@ -96,6 +96,11 @@ namespace QuanLyQuanCaPhe
         }
 
         private void dataGridViewTable_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void dataGridViewCategpry_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
 
         }
