@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\Study\\CT219H-LaPTrinhUngDung.NET\\QuanLyQuanCaPhe\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{80E0252F-B579-44F3-A378-1E6BBE8A5A97}|QuanLyQuanCaPhe\\QuanLyQuanCaPhe.csproj|d:\\study\\ct219h-laptrinhungdung.net\\quanlyquancaphe\\quanlyquancaphe\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E0252F-B579-44F3-A378-1E6BBE8A5A97}|QuanLyQuanCaPhe\\QuanLyQuanCaPhe.csproj|solutionrelative:quanlyquancaphe\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E0252F-B579-44F3-A378-1E6BBE8A5A97}|QuanLyQuanCaPhe\\QuanLyQuanCaPhe.csproj|d:\\study\\ct219h-laptrinhungdung.net\\quanlyquancaphe\\quanlyquancaphe\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{80E0252F-B579-44F3-A378-1E6BBE8A5A97}|QuanLyQuanCaPhe\\QuanLyQuanCaPhe.csproj|solutionrelative:quanlyquancaphe\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E0252F-B579-44F3-A378-1E6BBE8A5A97}|QuanLyQuanCaPhe\\QuanLyQuanCaPhe.csproj|d:\\study\\ct219h-laptrinhungdung.net\\quanlyquancaphe\\quanlyquancaphe\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E0252F-B579-44F3-A378-1E6BBE8A5A97}|QuanLyQuanCaPhe\\QuanLyQuanCaPhe.csproj|solutionrelative:quanlyquancaphe\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{80E0252F-B579-44F3-A378-1E6BBE8A5A97}|QuanLyQuanCaPhe\\QuanLyQuanCaPhe.csproj|d:\\study\\ct219h-laptrinhungdung.net\\quanlyquancaphe\\quanlyquancaphe\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{80E0252F-B579-44F3-A378-1E6BBE8A5A97}|QuanLyQuanCaPhe\\QuanLyQuanCaPhe.csproj|solutionrelative:quanlyquancaphe\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -27,6 +39,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "fLogin.cs",
+              "DocumentMoniker": "D:\\Study\\CT219H-LaPTrinhUngDung.NET\\QuanLyQuanCaPhe\\QuanLyQuanCaPhe\\fLogin.cs",
+              "RelativeDocumentMoniker": "QuanLyQuanCaPhe\\fLogin.cs",
+              "ToolTip": "D:\\Study\\CT219H-LaPTrinhUngDung.NET\\QuanLyQuanCaPhe\\QuanLyQuanCaPhe\\fLogin.cs",
+              "RelativeToolTip": "QuanLyQuanCaPhe\\fLogin.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T02:56:47.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fLogin.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\CT219H-LaPTrinhUngDung.NET\\QuanLyQuanCaPhe\\QuanLyQuanCaPhe\\fLogin.cs",
+              "RelativeDocumentMoniker": "QuanLyQuanCaPhe\\fLogin.cs",
+              "ToolTip": "D:\\Study\\CT219H-LaPTrinhUngDung.NET\\QuanLyQuanCaPhe\\QuanLyQuanCaPhe\\fLogin.cs [Design]",
+              "RelativeToolTip": "QuanLyQuanCaPhe\\fLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T02:56:46.252Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fAdmin.cs",
+              "DocumentMoniker": "D:\\Study\\CT219H-LaPTrinhUngDung.NET\\QuanLyQuanCaPhe\\QuanLyQuanCaPhe\\fAdmin.cs",
+              "RelativeDocumentMoniker": "QuanLyQuanCaPhe\\fAdmin.cs",
+              "ToolTip": "D:\\Study\\CT219H-LaPTrinhUngDung.NET\\QuanLyQuanCaPhe\\QuanLyQuanCaPhe\\fAdmin.cs",
+              "RelativeToolTip": "QuanLyQuanCaPhe\\fAdmin.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAYwEcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T02:56:44.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "fAdmin.cs [Design]",
               "DocumentMoniker": "D:\\Study\\CT219H-LaPTrinhUngDung.NET\\QuanLyQuanCaPhe\\QuanLyQuanCaPhe\\fAdmin.cs",
               "RelativeDocumentMoniker": "QuanLyQuanCaPhe\\fAdmin.cs",
@@ -38,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "fAccountProfile.cs [Design]",
               "DocumentMoniker": "D:\\Study\\CT219H-LaPTrinhUngDung.NET\\QuanLyQuanCaPhe\\QuanLyQuanCaPhe\\fAccountProfile.cs",
               "RelativeDocumentMoniker": "QuanLyQuanCaPhe\\fAccountProfile.cs",
