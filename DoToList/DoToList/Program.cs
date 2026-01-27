@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace TT_WindowsFormsApp
+namespace DoToList
 {
     internal static class Program
     {
@@ -16,9 +16,7 @@ namespace TT_WindowsFormsApp
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            //Application.Run(new @operator());
-            Application.Run(new DoiKieuChu());
-            //Application.Run(new DongHoDemNguoc());
+            Application.Run(new fDoToList());
         }
     }
 }

@@ -21,11 +21,17 @@ namespace QuanLyQuanCaPhe.DAO
 
 
 
+        //private string connectionSTR =
+        //    @"Server=NHAN\SQLEXPRESS;
+        //        Database=QuanLyQuanCafe;
+        //        Integrated Security=True;
+        //        TrustServerCertificate=True;";
+
         private string connectionSTR =
-            @"Server=NHAN\SQLEXPRESS;
-                Database=QuanLyQuanCafe;
-                Integrated Security=True;
-                TrustServerCertificate=True;";
+                @"Server=NHAN;
+                    Database=QuanLyQuanCafe;
+                    Trusted_Connection=True;
+                    TrustServerCertificate=True;";
 
 
         //trả về bảng dữ liệu
