@@ -19,6 +19,8 @@ namespace TT_WindowsFormsApp
             //Application.Run(new @operator());
             Application.Run(new DoiKieuChu());
             //Application.Run(new DongHoDemNguoc());
+            //Application.Run(new ChucMungNamMoi());
+            //Application.Run(new BuomBay());
         }
     }
 }

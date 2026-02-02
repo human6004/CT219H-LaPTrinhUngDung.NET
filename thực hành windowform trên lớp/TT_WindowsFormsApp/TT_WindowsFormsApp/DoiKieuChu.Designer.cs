@@ -31,12 +31,12 @@
             this.textBoxDoiKieuChu = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.radioButtonChuThuong = new System.Windows.Forms.RadioButton();
-            this.radioButtonInHoa = new System.Windows.Forms.RadioButton();
-            this.buttonXoa = new System.Windows.Forms.Button();
-            this.buttonKQ = new System.Windows.Forms.Button();
             this.textBoxKQ = new System.Windows.Forms.TextBox();
+            this.buttonKQ = new System.Windows.Forms.Button();
+            this.buttonXoa = new System.Windows.Forms.Button();
+            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.radioButtonInHoa = new System.Windows.Forms.RadioButton();
+            this.radioButtonChuThuong = new System.Windows.Forms.RadioButton();
             this.panel1.SuspendLayout();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
@@ -61,6 +61,7 @@
             // 
             // panel1
             // 
+            this.panel1.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.panel1.Controls.Add(this.textBoxKQ);
             this.panel1.Controls.Add(this.buttonKQ);
             this.panel1.Controls.Add(this.buttonXoa);
@@ -71,6 +72,36 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(776, 402);
             this.panel1.TabIndex = 2;
+            // 
+            // textBoxKQ
+            // 
+            this.textBoxKQ.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.textBoxKQ.Location = new System.Drawing.Point(239, 344);
+            this.textBoxKQ.Name = "textBoxKQ";
+            this.textBoxKQ.Size = new System.Drawing.Size(426, 30);
+            this.textBoxKQ.TabIndex = 5;
+            // 
+            // buttonKQ
+            // 
+            this.buttonKQ.Font = new System.Drawing.Font("Arial", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.buttonKQ.Location = new System.Drawing.Point(63, 330);
+            this.buttonKQ.Name = "buttonKQ";
+            this.buttonKQ.Size = new System.Drawing.Size(160, 55);
+            this.buttonKQ.TabIndex = 4;
+            this.buttonKQ.Text = "Kết quả";
+            this.buttonKQ.UseVisualStyleBackColor = true;
+            this.buttonKQ.Click += new System.EventHandler(this.buttonKQ_Click_1);
+            // 
+            // buttonXoa
+            // 
+            this.buttonXoa.Font = new System.Drawing.Font("Arial", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.buttonXoa.Location = new System.Drawing.Point(568, 141);
+            this.buttonXoa.Name = "buttonXoa";
+            this.buttonXoa.Size = new System.Drawing.Size(121, 162);
+            this.buttonXoa.TabIndex = 3;
+            this.buttonXoa.Text = "Xóa";
+            this.buttonXoa.UseVisualStyleBackColor = true;
+            this.buttonXoa.Click += new System.EventHandler(this.buttonXoa_Click);
             // 
             // groupBox1
             // 
@@ -84,17 +115,6 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Chọn kiểu chữ";
             // 
-            // radioButtonChuThuong
-            // 
-            this.radioButtonChuThuong.AutoSize = true;
-            this.radioButtonChuThuong.Location = new System.Drawing.Point(74, 64);
-            this.radioButtonChuThuong.Name = "radioButtonChuThuong";
-            this.radioButtonChuThuong.Size = new System.Drawing.Size(148, 28);
-            this.radioButtonChuThuong.TabIndex = 0;
-            this.radioButtonChuThuong.TabStop = true;
-            this.radioButtonChuThuong.Text = "Chữ thường";
-            this.radioButtonChuThuong.UseVisualStyleBackColor = true;
-            // 
             // radioButtonInHoa
             // 
             this.radioButtonInHoa.AutoSize = true;
@@ -106,35 +126,16 @@
             this.radioButtonInHoa.Text = "Chữ in hoa";
             this.radioButtonInHoa.UseVisualStyleBackColor = true;
             // 
-            // buttonXoa
+            // radioButtonChuThuong
             // 
-            this.buttonXoa.Font = new System.Drawing.Font("Arial", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.buttonXoa.Location = new System.Drawing.Point(568, 141);
-            this.buttonXoa.Name = "buttonXoa";
-            this.buttonXoa.Size = new System.Drawing.Size(121, 162);
-            this.buttonXoa.TabIndex = 3;
-            this.buttonXoa.Text = "Xóa";
-            this.buttonXoa.UseVisualStyleBackColor = true;
-            this.buttonXoa.Click += new System.EventHandler(this.buttonXoa_Click);
-            // 
-            // buttonKQ
-            // 
-            this.buttonKQ.Font = new System.Drawing.Font("Arial", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.buttonKQ.Location = new System.Drawing.Point(63, 330);
-            this.buttonKQ.Name = "buttonKQ";
-            this.buttonKQ.Size = new System.Drawing.Size(160, 55);
-            this.buttonKQ.TabIndex = 4;
-            this.buttonKQ.Text = "Kết quả";
-            this.buttonKQ.UseVisualStyleBackColor = true;
-            this.buttonKQ.Click += new System.EventHandler(this.buttonKQ_Click_1);
-            // 
-            // textBoxKQ
-            // 
-            this.textBoxKQ.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.textBoxKQ.Location = new System.Drawing.Point(239, 344);
-            this.textBoxKQ.Name = "textBoxKQ";
-            this.textBoxKQ.Size = new System.Drawing.Size(426, 30);
-            this.textBoxKQ.TabIndex = 5;
+            this.radioButtonChuThuong.AutoSize = true;
+            this.radioButtonChuThuong.Location = new System.Drawing.Point(74, 64);
+            this.radioButtonChuThuong.Name = "radioButtonChuThuong";
+            this.radioButtonChuThuong.Size = new System.Drawing.Size(148, 28);
+            this.radioButtonChuThuong.TabIndex = 0;
+            this.radioButtonChuThuong.TabStop = true;
+            this.radioButtonChuThuong.Text = "Chữ thường";
+            this.radioButtonChuThuong.UseVisualStyleBackColor = true;
             // 
             // DoiKieuChu
             // 
