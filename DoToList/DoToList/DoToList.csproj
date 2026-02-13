@@ -65,6 +65,8 @@
     <Compile Include="fDoToList.Designer.cs">
       <DependentUpon>fDoToList.cs</DependentUpon>
     </Compile>
+    <Compile Include="PlanData.cs" />
+    <Compile Include="PlanItem.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="ADayJob.resx">
