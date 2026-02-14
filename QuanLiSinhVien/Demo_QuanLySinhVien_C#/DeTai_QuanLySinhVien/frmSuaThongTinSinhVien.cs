@@ -71,9 +71,24 @@ namespace DeTai_QuanLySinhVien
                 this.cbTenLop.Text = item.TenLop;
                 this.cbTenLop.Tag = item.ID_Lop;
                 this.txtLyLich.Text = item.LyLich;
+                //string hinhanh = item.HinhAnh;
+                //this.picboxChonAnh.Image = new Bitmap(Application.StartupPath + @"\HinhAnh\" + hinhanh);                
+                //picboxChonAnh.SizeMode = PictureBoxSizeMode.StretchImage;
                 string hinhanh = item.HinhAnh;
-                this.picboxChonAnh.Image = new Bitmap(Application.StartupPath + @"\HinhAnh\" + hinhanh);                
+                string duongdan = Application.StartupPath + @"\HinhAnh\" + hinhanh;
+
+                if (!string.IsNullOrEmpty(hinhanh) && System.IO.File.Exists(duongdan))
+                {
+                    picboxChonAnh.Image = Image.FromFile(duongdan);
+                }
+                else
+                {
+                    picboxChonAnh.Image = null; // hoặc ảnh mặc định
+                }
+
                 picboxChonAnh.SizeMode = PictureBoxSizeMode.StretchImage;
+
+
             }
         }
 
@@ -84,7 +99,8 @@ namespace DeTai_QuanLySinhVien
                 
                 int sex;                
                 string TenSV = txtTenSV.Text.Trim();
-                DateTime NgaySinh = Convert.ToDateTime(datetimeNhapNgaySinh.MaxDate.ToLongTimeString());
+                //DateTime NgaySinh = Convert.ToDateTime(datetimeNhapNgaySinh.MaxDate.ToLongTimeString());
+                DateTime NgaySinh = datetimeNhapNgaySinh.Value;
                 string NoiSinh = txtNoiSinh.Text.Trim();
                 string NoiOHienTai = txtNoiOHienTai.Text.Trim();
                 string KhoaHoc = txtKhoaHoc.Text.Trim();
@@ -117,18 +133,47 @@ namespace DeTai_QuanLySinhVien
             }
         }
 
+        //private void btnImage_Click(object sender, EventArgs e)
+        //{
+        //    OpenFileDialog dl = new OpenFileDialog();
+        //    dl.Filter = " Image files (*.BMP,*.JPG,*.JPEG)|*.bmp;*.jpg;*.jpeg";
+        //    //dl.InitialDirectory = Application.StartupPath + @"~/HinhAnh";
+        //    dl.InitialDirectory = Application.StartupPath + @"\HinhAnh";
+
+        //    if (dl.ShowDialog() == DialogResult.OK)
+        //    {
+        //        hinhanh = dl.FileName.Substring(dl.FileName.LastIndexOf("\\") + 1, dl.FileName.Length - dl.FileName.LastIndexOf("\\") - 1);
+        //        picboxChonAnh.Image = new Bitmap(String.Format(@"{0}\HinhAnh\{1}", Application.StartupPath, hinhanh));
+        //        picboxChonAnh.SizeMode = PictureBoxSizeMode.StretchImage;
+        //    }
+        //}
+
         private void btnImage_Click(object sender, EventArgs e)
         {
             OpenFileDialog dl = new OpenFileDialog();
-            dl.Filter = " Image files (*.BMP,*.JPG,*.JPEG)|*.bmp;*.jpg;*.jpeg";
-            dl.InitialDirectory = Application.StartupPath + @"~/HinhAnh";
+            dl.Filter = "Image files (*.BMP,*.JPG,*.JPEG)|*.bmp;*.jpg;*.jpeg";
+            dl.InitialDirectory = Application.StartupPath + @"\HinhAnh";
+
             if (dl.ShowDialog() == DialogResult.OK)
             {
-                hinhanh = dl.FileName.Substring(dl.FileName.LastIndexOf("\\") + 1, dl.FileName.Length - dl.FileName.LastIndexOf("\\") - 1);
-                picboxChonAnh.Image = new Bitmap(String.Format(@"{0}\HinhAnh\{1}", Application.StartupPath, hinhanh));
+                // Lấy đường dẫn gốc
+                string sourcePath = dl.FileName;
+
+                // Lấy tên file
+                hinhanh = System.IO.Path.GetFileName(sourcePath);
+
+                // Đường dẫn đích trong project
+                string destPath = System.IO.Path.Combine(Application.StartupPath, "HinhAnh", hinhanh);
+
+                // Copy file vào thư mục HinhAnh
+                System.IO.File.Copy(sourcePath, destPath, true);
+
+                // Hiển thị ảnh
+                picboxChonAnh.Image = Image.FromFile(destPath);
                 picboxChonAnh.SizeMode = PictureBoxSizeMode.StretchImage;
             }
         }
+
 
         private void btnSua_Click(object sender, EventArgs e)
         {

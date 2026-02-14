@@ -33,11 +33,11 @@
             this.labelX1 = new DevComponents.DotNetBar.LabelX();
             this.labelX2 = new DevComponents.DotNetBar.LabelX();
             this.pnQuanLyNguoiDung = new DevComponents.DotNetBar.PanelEx();
-            this.txtQuyenHan = new DevComponents.DotNetBar.Controls.TextBoxX();
             this.btnThoat = new DevComponents.DotNetBar.ButtonX();
             this.btnDangNhap = new DevComponents.DotNetBar.ButtonX();
             this.labelX4 = new DevComponents.DotNetBar.LabelX();
             this.labelX3 = new DevComponents.DotNetBar.LabelX();
+            this.comboBoxQuyenHan = new System.Windows.Forms.ComboBox();
             this.pnQuanLyNguoiDung.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -62,6 +62,7 @@
             this.txtMatKhau.Border.CornerType = DevComponents.DotNetBar.eCornerType.Square;
             this.txtMatKhau.Location = new System.Drawing.Point(222, 119);
             this.txtMatKhau.Name = "txtMatKhau";
+            this.txtMatKhau.PasswordChar = '●';
             this.txtMatKhau.Size = new System.Drawing.Size(149, 20);
             this.txtMatKhau.TabIndex = 1;
             this.txtMatKhau.UseSystemPasswordChar = true;
@@ -98,7 +99,6 @@
             // 
             this.pnQuanLyNguoiDung.CanvasColor = System.Drawing.SystemColors.Control;
             this.pnQuanLyNguoiDung.ColorSchemeStyle = DevComponents.DotNetBar.eDotNetBarStyle.Office2007;
-            this.pnQuanLyNguoiDung.Controls.Add(this.txtQuyenHan);
             this.pnQuanLyNguoiDung.Controls.Add(this.btnThoat);
             this.pnQuanLyNguoiDung.Controls.Add(this.btnDangNhap);
             this.pnQuanLyNguoiDung.Controls.Add(this.labelX4);
@@ -120,18 +120,6 @@
             this.pnQuanLyNguoiDung.Style.ForeColor.ColorSchemePart = DevComponents.DotNetBar.eColorSchemePart.PanelText;
             this.pnQuanLyNguoiDung.Style.GradientAngle = 90;
             this.pnQuanLyNguoiDung.TabIndex = 4;
-            // 
-            // txtQuyenHan
-            // 
-            // 
-            // 
-            // 
-            this.txtQuyenHan.Border.Class = "TextBoxBorder";
-            this.txtQuyenHan.Border.CornerType = DevComponents.DotNetBar.eCornerType.Square;
-            this.txtQuyenHan.Location = new System.Drawing.Point(222, 158);
-            this.txtQuyenHan.Name = "txtQuyenHan";
-            this.txtQuyenHan.Size = new System.Drawing.Size(149, 20);
-            this.txtQuyenHan.TabIndex = 2;
             // 
             // btnThoat
             // 
@@ -188,11 +176,20 @@
             this.labelX3.TabIndex = 4;
             this.labelX3.Text = "QUẢN LÝ NGƯỜI DÙNG";
             // 
+            // comboBoxQuyenHan
+            // 
+            this.comboBoxQuyenHan.FormattingEnabled = true;
+            this.comboBoxQuyenHan.Location = new System.Drawing.Point(224, 165);
+            this.comboBoxQuyenHan.Name = "comboBoxQuyenHan";
+            this.comboBoxQuyenHan.Size = new System.Drawing.Size(150, 21);
+            this.comboBoxQuyenHan.TabIndex = 5;
+            // 
             // frmDangNhapAdmin
             // 
             this.AcceptButton = this.btnDangNhap;
             this.CancelButton = this.btnThoat;
             this.ClientSize = new System.Drawing.Size(504, 262);
+            this.Controls.Add(this.comboBoxQuyenHan);
             this.Controls.Add(this.pnQuanLyNguoiDung);
             this.DoubleBuffered = true;
             this.MaximizeBox = false;
@@ -218,6 +215,6 @@
         private DevComponents.DotNetBar.ButtonX btnDangNhap;
         private DevComponents.DotNetBar.LabelX labelX4;
         private DevComponents.DotNetBar.LabelX labelX3;
-        private DevComponents.DotNetBar.Controls.TextBoxX txtQuyenHan;
+        private System.Windows.Forms.ComboBox comboBoxQuyenHan;
     }
 }

@@ -64,7 +64,7 @@
             this.labelX1.Name = "labelX1";
             this.labelX1.Size = new System.Drawing.Size(751, 447);
             this.labelX1.TabIndex = 0;
-            this.labelX1.Text = " Thông tin liên hệ: Lớp ICTV4 Nhóm 4 Topica_Elearning_TVU";
+            this.labelX1.Text = " Thông tin liên hệ: nhanb2308203@student.ctu.edu.vn";
             this.labelX1.TextLineAlignment = System.Drawing.StringAlignment.Near;
             // 
             // frmTroGiup

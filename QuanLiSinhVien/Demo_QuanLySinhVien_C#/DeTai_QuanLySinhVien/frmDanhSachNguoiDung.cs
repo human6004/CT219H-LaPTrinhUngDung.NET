@@ -48,11 +48,13 @@ namespace DeTai_QuanLySinhVien
 
         private void lsDanhSachNguoiDung_SelectedIndexChanged(object sender, EventArgs e)
         {
+            //txtTenDangNhap.ReadOnly = true;
+            //txtMatKhau.ReadOnly = true;
             txtTenDangNhap.ReadOnly = true;
-            txtMatKhau.ReadOnly = true;
+            txtMatKhau.ReadOnly = false;
             if (lsDanhSachNguoiDung.SelectedItems.Count > 0)
             {
-                
+
                 ListViewItem li = lsDanhSachNguoiDung.SelectedItems[0];
                 tenDangNhap = li.Text;
                 matKhau = li.SubItems[1].Text;
@@ -68,9 +70,52 @@ namespace DeTai_QuanLySinhVien
                     txtMatKhau.Text = item.MatKhau;
                     txtQuyenHan.Text = item.QuyenHan;
                 }
+            
             }
-           
+            else
+            {
+                // Click vào vùng trống → xóa hết
+                txtTenDangNhap.ReadOnly = false;
+
+                txtTenDangNhap.Clear();
+                txtMatKhau.Clear();
+                txtQuyenHan.Clear();
+
+                txtTenDangNhap.Focus();
+            }
+
         }
+
+        //private void lsDanhSachNguoiDung_SelectedIndexChanged(object sender, EventArgs e)
+        //{
+        //    if (lsDanhSachNguoiDung.SelectedItems.Count > 0)
+        //    {
+        //        // Có chọn dòng → hiển thị dữ liệu
+        //        txtTenDangNhap.ReadOnly = true;
+        //        txtMatKhau.ReadOnly = false;
+
+        //        ListViewItem li = lsDanhSachNguoiDung.SelectedItems[0];
+
+        //        txtTenDangNhap.Text = li.Text;
+        //        txtMatKhau.Text = li.SubItems[1].Text;
+        //        txtQuyenHan.Text = li.SubItems[2].Text;
+        //    }
+        //    else
+        //    {
+        //        // Click vào vùng trống → xóa hết
+        //        txtTenDangNhap.ReadOnly = false;
+
+        //        txtTenDangNhap.Clear();
+        //        txtMatKhau.Clear();
+        //        txtQuyenHan.Clear();
+
+        //        txtTenDangNhap.Focus();
+        //    }
+        //}
+
+
+
+
 
         private void btnThem_Click(object sender, EventArgs e)
         {

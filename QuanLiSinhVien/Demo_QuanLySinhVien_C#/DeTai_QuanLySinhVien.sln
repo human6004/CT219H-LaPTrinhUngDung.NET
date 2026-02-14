@@ -1,7 +1,9 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeTai_QuanLySinhVien", "DeTai_QuanLySinhVien\DeTai_QuanLySinhVien.csproj", "{391DA3FD-6C49-49D8-B6D7-4F072DADAFA5}"
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.2.11408.102 d18.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLySinhVien", "DeTai_QuanLySinhVien\QuanLySinhVien.csproj", "{391DA3FD-6C49-49D8-B6D7-4F072DADAFA5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
