@@ -29,8 +29,8 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            Microsoft.Reporting.WinForms.ReportDataSource reportDataSource1 = new Microsoft.Reporting.WinForms.ReportDataSource();
-            Microsoft.Reporting.WinForms.ReportDataSource reportDataSource2 = new Microsoft.Reporting.WinForms.ReportDataSource();
+            Microsoft.Reporting.WinForms.ReportDataSource reportDataSource3 = new Microsoft.Reporting.WinForms.ReportDataSource();
+            Microsoft.Reporting.WinForms.ReportDataSource reportDataSource4 = new Microsoft.Reporting.WinForms.ReportDataSource();
             this.KetQuaBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.QuanLySinhVienDataSet = new DeTai_QuanLySinhVien.QuanLySinhVienDataSet();
             this.SinhVienBindingSource = new System.Windows.Forms.BindingSource(this.components);
@@ -130,17 +130,19 @@
             // reportViewer1
             // 
             this.reportViewer1.Dock = System.Windows.Forms.DockStyle.Fill;
-            reportDataSource1.Name = "KetQuaSV";
-            reportDataSource1.Value = this.KetQuaBindingSource;
-            reportDataSource2.Name = "DSSinhVien";
-            reportDataSource2.Value = this.SinhVienBindingSource;
-            this.reportViewer1.LocalReport.DataSources.Add(reportDataSource1);
-            this.reportViewer1.LocalReport.DataSources.Add(reportDataSource2);
+            reportDataSource3.Name = "KetQuaSV";
+            reportDataSource3.Value = this.KetQuaBindingSource;
+            reportDataSource4.Name = "DSSinhVien";
+            reportDataSource4.Value = this.SinhVienBindingSource;
+            this.reportViewer1.LocalReport.DataSources.Add(reportDataSource3);
+            this.reportViewer1.LocalReport.DataSources.Add(reportDataSource4);
             this.reportViewer1.LocalReport.ReportEmbeddedResource = "DeTai_QuanLySinhVien.Report1.rdlc";
             this.reportViewer1.Location = new System.Drawing.Point(0, 0);
             this.reportViewer1.Name = "reportViewer1";
+            this.reportViewer1.ServerReport.BearerToken = null;
             this.reportViewer1.Size = new System.Drawing.Size(939, 476);
             this.reportViewer1.TabIndex = 0;
+            this.reportViewer1.Load += new System.EventHandler(this.reportViewer1_Load);
             // 
             // KetQuaTableAdapter
             // 

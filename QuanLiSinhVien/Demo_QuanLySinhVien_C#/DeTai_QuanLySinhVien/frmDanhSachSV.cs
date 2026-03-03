@@ -177,11 +177,11 @@ namespace DeTai_QuanLySinhVien
 
         private void frmDanhSachSV_FormClosing(object sender, FormClosingEventArgs e)
         {
-            DialogResult dl = MessageBox.Show("Bạn có muốn thoát chương trình không ?", " Thông báo !!", MessageBoxButtons.YesNo, MessageBoxIcon.Question, MessageBoxDefaultButton.Button1);
-            if (dl == DialogResult.No)
-            {
-                e.Cancel = true;
-            }
+            //DialogResult dl = MessageBox.Show("Bạn có muốn thoát chương trình không ?", " Thông báo !!", MessageBoxButtons.YesNo, MessageBoxIcon.Question, MessageBoxDefaultButton.Button1);
+            //if (dl == DialogResult.No)
+            //{
+            //    e.Cancel = true;
+            //}
         }
 
         private void gpDanhSachSinhVien_Click(object sender, EventArgs e)

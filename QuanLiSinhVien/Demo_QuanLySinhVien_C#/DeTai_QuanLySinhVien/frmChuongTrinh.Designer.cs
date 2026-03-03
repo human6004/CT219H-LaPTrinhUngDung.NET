@@ -98,7 +98,7 @@
             this.ribbonControl1.QuickToolbarItems.AddRange(new DevComponents.DotNetBar.BaseItem[] {
             this.btnName,
             this.qatCustomizeItem1});
-            this.ribbonControl1.Size = new System.Drawing.Size(1076, 154);
+            this.ribbonControl1.Size = new System.Drawing.Size(1114, 154);
             this.ribbonControl1.Style = DevComponents.DotNetBar.eDotNetBarStyle.StyleManagerControlled;
             this.ribbonControl1.SystemText.MaximizeRibbonText = "&Maximize the Ribbon";
             this.ribbonControl1.SystemText.MinimizeRibbonText = "Mi&nimize the Ribbon";
@@ -127,10 +127,10 @@
             this.ribpnTroGiup.ColorSchemeStyle = DevComponents.DotNetBar.eDotNetBarStyle.StyleManagerControlled;
             this.ribpnTroGiup.Controls.Add(this.ribbarTroGiup);
             this.ribpnTroGiup.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.ribpnTroGiup.Location = new System.Drawing.Point(0, 61);
+            this.ribpnTroGiup.Location = new System.Drawing.Point(0, 53);
             this.ribpnTroGiup.Name = "ribpnTroGiup";
             this.ribpnTroGiup.Padding = new System.Windows.Forms.Padding(3, 0, 3, 3);
-            this.ribpnTroGiup.Size = new System.Drawing.Size(1076, 91);
+            this.ribpnTroGiup.Size = new System.Drawing.Size(1114, 99);
             // 
             // 
             // 
@@ -168,7 +168,7 @@
             this.btnTroGiup});
             this.ribbarTroGiup.Location = new System.Drawing.Point(3, 0);
             this.ribbarTroGiup.Name = "ribbarTroGiup";
-            this.ribbarTroGiup.Size = new System.Drawing.Size(112, 88);
+            this.ribbarTroGiup.Size = new System.Drawing.Size(112, 96);
             this.ribbarTroGiup.Style = DevComponents.DotNetBar.eDotNetBarStyle.StyleManagerControlled;
             this.ribbarTroGiup.TabIndex = 0;
             this.ribbarTroGiup.Text = "Thông Tin Trợ Giúp";
@@ -438,6 +438,7 @@
             this.btnHeThong.CanCustomize = false;
             this.btnHeThong.HotTrackingStyle = DevComponents.DotNetBar.eHotTrackingStyle.Image;
             this.btnHeThong.Image = ((System.Drawing.Image)(resources.GetObject("btnHeThong.Image")));
+            this.btnHeThong.ImageFixedSize = new System.Drawing.Size(16, 16);
             this.btnHeThong.ImagePaddingHorizontal = 0;
             this.btnHeThong.ImagePaddingVertical = 0;
             this.btnHeThong.Name = "btnHeThong";
@@ -595,7 +596,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1086, 719);
+            this.ClientSize = new System.Drawing.Size(1124, 742);
             this.Controls.Add(this.ribbonControl1);
             this.IsMdiContainer = true;
             this.Name = "frmChuongTrinh";

@@ -23,6 +23,11 @@ namespace DeTai_QuanLySinhVien
             this.SinhVienTableAdapter.Fill(this.QuanLySinhVienDataSet.SinhVien);
             this.reportViewer1.RefreshReport();
                       
-        }  
+        }
+
+        private void reportViewer1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

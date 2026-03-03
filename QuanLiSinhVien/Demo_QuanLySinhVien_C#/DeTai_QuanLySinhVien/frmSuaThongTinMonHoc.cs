@@ -26,11 +26,11 @@ namespace DeTai_QuanLySinhVien
         QuanLySinhVienDataContext db = new QuanLySinhVienDataContext();
         private void frmSuaThongTinMonHoc_FormClosing(object sender, FormClosingEventArgs e)
         {
-            DialogResult dl = MessageBox.Show("Bạn có muốn thoát chương trình không ?", " Thông Báo", MessageBoxButtons.YesNo, MessageBoxIcon.Question, MessageBoxDefaultButton.Button1);
-            if (dl == DialogResult.No)
-            {
-                e.Cancel = true;
-            }
+            //DialogResult dl = MessageBox.Show("Bạn có muốn thoát chương trình không ?", " Thông Báo", MessageBoxButtons.YesNo, MessageBoxIcon.Question, MessageBoxDefaultButton.Button1);
+            //if (dl == DialogResult.No)
+            //{
+            //    e.Cancel = true;
+            //}
         }
 
         private void btnThoat_Click(object sender, EventArgs e)
