@@ -216,11 +216,14 @@ namespace DeTai_QuanLySinhVien
             //{
             //    e.Cancel = true;
             //}
+<<<<<<< HEAD:QuanLiSinhVien/Demo_QuanLySinhVien_C#/QuanLySinhVien/frmDanhSachNguoiDung.cs
         }
 
         private void pnDanhSachNguoiDung_Click(object sender, EventArgs e)
         {
 
+=======
+>>>>>>> 9f8a2277b530425853728beb6d17a1a75692e8ce:QuanLiSinhVien/Demo_QuanLySinhVien_C#/DeTai_QuanLySinhVien/frmDanhSachNguoiDung.cs
         }
     }
 }
