@@ -1,0 +1,63 @@
+﻿@model IEnumerable<TTQuanLiSach.Models.SACH>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.TENSACH)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TACGIA)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NAMXB)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SOLUONG)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IMAGECOVER)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.TENSACH)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TACGIA)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NAMXB)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SOLUONG)
+        </td>
+        <td>
+            <img src="@Html.DisplayFor(modelItem => item.IMAGECOVER)" width="100" height="200"/>
+        </td>
+        <td>
+
+            @*them 2 doan code nay*@
+
+
+            @Html.ActionLink("Edit", "Edit", new { id=item.MASACH }) |
+            @Html.ActionLink("Details", "Details", new { id=item.MASACH }) |
+
+
+            @Html.ActionLink("Delete", "Delete", new { id=item.MASACH })
+        </td>
+    </tr>
+}
+
+</table>
